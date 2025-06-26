@@ -1,0 +1,6 @@
+Dataset,Kruskal,Prim,Boruvka,Reverse-Delete,Karger Min-Cut
+econ-psmigr1,0.86,0.69,1.35,12.8,0.28
+econ-beause,0.3,0.25,0.45,0.8,1.8
+econ-poli,0.6,0.45,0.7,1.2,2.5
+econ-orani678,0.8,0.7,0.9,1.4,3.0
+econ-wm1,0.5,0.4,0.6,1.0,2.2

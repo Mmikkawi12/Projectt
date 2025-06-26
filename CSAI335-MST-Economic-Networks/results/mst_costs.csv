@@ -1,0 +1,6 @@
+Dataset,Kruskal,Prim,Boruvka,Reverse-Delete
+econ-psmigr1,11319,11319,11319,11295
+econ-beause,1020,1020,1020,1010
+econ-poli,1589,1589,1589,1580
+econ-orani678,1310,1310,1310,1300
+econ-wm1,1200,1200,1200,1190
